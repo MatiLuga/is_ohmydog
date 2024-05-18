@@ -16,7 +16,7 @@ La idea del proyecto es realizar un Sistema de Software a través de requerimien
 La metodología consistió en realizar las entrevistas que creamos necesarias con dicho cliente, para obtener los requimientos del mismo.
 Luego de esto especificar estos requerimientos mediante la implementación de la Historias de Usuario(HU).
 
-Para la elaboración del sistema utilizamos la metodoligía SCRUM
+Para la elaboración del sistema utilizamos la metodoligía SCRUM y acordamos que en 3 sprints el sistema debía terminar.
 
 Dicho sistema fue implementado con el lenguaje Ruby on Rails.
 
